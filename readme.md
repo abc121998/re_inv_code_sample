@@ -1,6 +1,6 @@
-**This is an modified version of the UMBC Retriever's Essentials Pantry Inventory App intended for job application purposes**
-
-While the original is a web application that uses the Django Framework, Heroku, and a postgreSQL database, this one is
+# Creating an Nutrition-Focused Inventory Application at a University Food Pantry
+## Code Sample #2
+This is an modified version of the UMBC Retriever's Essentials Pantry Inventory App intended for job application purposes. While the original is a web application that uses the Django Framework, Heroku, and a postgreSQL database, this one is
 a single file that creates a dataframe for current inventory each time it runs. The project also contains a pickled model for automatic categorization and a small csv file of about 110 products from an USDA Database. 
 
 Allows User to:
